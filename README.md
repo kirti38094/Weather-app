@@ -4,10 +4,10 @@ A weather application built using React.js  AND MATERIAL UI that provides real-t
 
 ## Features
 
-- Search weather by city name
-- Displays temperature, humidity, minimum and maximum temperature
-- Shows weather condition and feels-like temperature
-- Responsive user interface
+- Search weather by city name.
+- Displays temperature, humidity, minimum and maximum temperature.
+- Shows weather condition and feels-like temperature.
+- Responsive user interface.
 
 ## Tech Stack
 
